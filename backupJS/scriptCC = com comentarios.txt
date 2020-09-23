@@ -1,0 +1,11 @@
+Bom, ScriptCC é com os comentários, mas isso foi ontem
+
+a v1 não funciona, mas foi pra salvar... 
+
+a helpIvo tem lá a classe estranha, que eu acabei não usando.
+
+a v2 tá funcionando, só falta agora destruir o personagem criado em um tempo.
+
+a v3 tá funcionando perfeitamente, agora só falta /\ é, na vdd ainda falta destruir o personagem criado em um tempo, mas agora tá com os sons foda.
+
+Pronto! :D 14:37, 23/09/2020, v4 tá funcionando, agora vou tirar todos os comentários e coisas que não foram utilizadas, espero não cagar no meio do processo.
